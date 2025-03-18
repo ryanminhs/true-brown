@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+#baseURL: "https://examplesite.com/"
 title: 20Lab
 paginate: 5
 theme: PaperMod
